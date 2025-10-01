@@ -177,7 +177,6 @@ We welcome contributions from the community! Whether it's bug fixes, feature enh
 ---
 
 <div align="center">
-  <h3>🌟 Star this repository if you found it helpful! 🌟</h3>
   <p><strong>Smart Home AI</strong> - Making home automation accessible to everyone</p>
   <p>Built with ❤️ using Flutter</p>
 </div>
