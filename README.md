@@ -50,7 +50,8 @@ Smart Home AI is a cutting-edge Flutter application that transforms how you inte
 
 **Download the latest APK:**
 
-[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/Jackjjr24/smart_home_ai_app/releases/latest/download/smart_home_ai.apk)
+[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/Jackjjr24/smart_home_ai_app/raw/main/smart_home_ai.apk)
+
 
 
 > **Note**: Enable "Unknown Sources" in your Android settings to install the APK.
